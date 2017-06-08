@@ -4,7 +4,7 @@
             "name": "Mac",
             "includePath": [
                 "/usr/include",
-                "/usr/local/include"
+                "/usr/local/include"    
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
@@ -26,7 +26,16 @@
             "name": "Win32",
             "includePath": [
                 "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/*",
-                "C:/MinGW/mingw32/i686-w64-mingw32/include/c++/*"
+                "C:/MinGW/mingw32/i686-w64-mingw32/include/*",
+                "C:/MinGW/mingw32/i686-w64-mingw32/include/c++/*",
+                "C:/MinGW/mingw32/i686-w64-mingw32/include/ddk/*",
+                "C:/MinGW/mingw32/i686-w64-mingw32/include/gdiplus/*",
+                "C:/MinGW/mingw32/i686-w64-mingw32/include/GL/*",
+                "C:/MinGW/mingw32/i686-w64-mingw32/include/psdk_inc/*",
+                "C:/MinGW/mingw32/i686-w64-mingw32/include/sdks/*",
+                "C:/MinGW/mingw32/i686-w64-mingw32/include/sec_api/*",
+                "C:/MinGW/mingw32/i686-w64-mingw32/include/sys/*",
+                "C:/MinGW/mingw32/i686-w64-mingw32/include/wrl/*"
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
